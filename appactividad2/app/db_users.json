@@ -1,0 +1,28 @@
+{
+    "users": [
+        {
+            "id": "000000001",
+            "name": "Diego Yepes",
+            "username": "dyepes",
+            "password": "123",
+            "email": "diego.yepes@gmail.com",
+            "role": "Administrador"
+        },
+        {
+            "id": "000000002",
+            "name": "Miguel Caro",
+            "username": "mcaro",
+            "password": "1234",
+            "email": "miguel.caro@gmail.com",
+            "role": "Vendedor"
+        },
+        {
+            "id": "000000003",
+            "name": "Sebastian Sena",
+            "username": "Ssena",
+            "password": "12345",
+            "email": "sebastian.sena@gmail.com",
+            "role": "Vendedor"
+        }
+    ]
+}
